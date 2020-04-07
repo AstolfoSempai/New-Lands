@@ -1,0 +1,38 @@
+requirements: [
+	dark-steel/150
+	graphite/135
+	titanium/60
+]
+ammo: {
+	graphite: artilleryDense
+	silicon: artilleryHoming
+	pyratite: artilleryIncendiary
+	blast-compound: artilleryExplosive
+	plastanium: artilleryPlastic
+	molten-ingot: {
+		trailColor: cb2909
+		frontColor: fd8b26
+		backColor: cb2909
+		collidesTiles: false
+		knockback: 1.0
+		lifeTime: 80
+		speed: 3
+		bulletWidth: 13.0
+		bulletHeigt: 13.0
+		splashDamageRadius: 20
+		splashDamage: 60
+		status: melting
+		trailEffect: incendTrail
+	}
+	dark-steel: {
+		collidesTiles: false
+		knockback: 1.5
+		lifeTime: 60
+		speed: 5
+		bulletWidth: 13.0
+		bulletHeigt: 13.0
+		splashDamageRadius: 30
+		splashDamage: 60
+		damage: 60 
+	}
+}

@@ -1,0 +1,6 @@
+type: material
+name: Iron
+description: Iron can be used for building and making other alloys.
+color: 89705d
+cost: 2
+hardness: 2

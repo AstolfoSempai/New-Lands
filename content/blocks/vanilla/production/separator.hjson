@@ -1,0 +1,12 @@
+results: [
+	copper/1
+	lead/1
+	graphite/1
+	titanium/1
+	iron/1
+]
+requirements: [
+	copper/30
+	titanium/25
+	iron/10
+]

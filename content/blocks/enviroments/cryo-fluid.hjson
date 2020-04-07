@@ -1,0 +1,12 @@
+type: floor
+name: Cryo-liquid
+isLiquid: true
+variants: 0
+blendGroup: water
+cacheLayer: water
+liquidDrop: cryofluid
+status: freezing
+statusDuration: 150
+walkEffect: freezing
+drownUpdateEffect: freezing
+drownDuration: 50

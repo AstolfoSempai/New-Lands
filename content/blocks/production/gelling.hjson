@@ -1,0 +1,31 @@
+type: Separator
+category: crafting
+name: Gelling
+description: Take cryo fluid and gel it in a cold compound.
+health: 260
+size: 4
+hasPower: true
+hasLiquids: true
+hasItems: true
+itemCapacity: 10
+liquidCapacity: 300
+craftTime: 90
+updateEffect: freezing
+drawLiquidLight: true
+spinnerSpeed: 12
+consumes: {
+	power: 2.5
+	liquid: cryofluid/0.08333333
+}
+results: [
+	cryo-gel/1
+]
+requirements: [
+	steel/125
+	dark-steel/150
+	silicon/125
+	plastanium/50
+]
+iddleSound: respaning
+iddleSoundVolume: 0.5
+research: des-gelling

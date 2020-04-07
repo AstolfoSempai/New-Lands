@@ -1,0 +1,23 @@
+requirements: [
+	lead/75
+	steel/25
+	metaglass/45
+]
+ammo: {
+	water: waterShot
+	slag: slagShot
+	cryofluid: cryoShot
+	oil: oilShot
+	liquid-lava: {
+		type: LiquidBulletType
+		liquid: liquid-lava
+		damage: 20
+		status: melting
+	}
+	liquid-starlight: {
+		type: LiquidBulletType
+		liquid: liquid-starlight
+		damage: 15
+		status: freezing
+	}
+}

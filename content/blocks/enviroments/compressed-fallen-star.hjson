@@ -1,0 +1,8 @@
+type: LightBlock
+name: Compressed Fallen Star
+configurable: false
+destructible: false
+targetable: falsee
+breakable: false
+brightness: 0.67
+radius: 120

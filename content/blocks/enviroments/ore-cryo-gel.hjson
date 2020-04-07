@@ -1,0 +1,5 @@
+type: OreBlock
+itemDrop: cryo-gel
+oreDefault: true
+oreThreshold: 0.89
+oreScale: 26.05

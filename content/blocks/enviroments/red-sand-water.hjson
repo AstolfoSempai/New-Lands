@@ -1,0 +1,9 @@
+type: floor
+name: Red sand water
+variants: 0
+speedMultiplier: 0.8
+isLiquid: true
+liquidDrop: water
+cacheLayer: water
+statusEffect: wet
+statusDuration: 50

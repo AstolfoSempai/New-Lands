@@ -1,0 +1,14 @@
+type: conveyor
+name: Molten conveyor
+description: A faster conveyor made with molten ingot and dark steel.
+health: 200
+itemCapacity: 4
+requirements: [
+  dark-steel/2
+  molten-ingot/3
+  plastanium/3
+]
+category: distribution
+speed: 0.15
+iddleSound: conveyor
+ideSoundVolume: 0.004

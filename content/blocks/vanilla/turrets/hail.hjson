@@ -1,0 +1,16 @@
+ammo: {
+	graphite: artilleryDense
+	silicon: artilleryHoming
+	pyratite: artilleryIncendiary
+	steel: {
+		collidesTiles: false
+		knockback: 1.0
+		lifeTime: 60
+		speed: 2
+		bulletWidth: 13.0
+		bulletHeigt: 13.0
+		splashDamageRadius: 15
+		splashDamage: 40
+		damage: 40
+	}
+}

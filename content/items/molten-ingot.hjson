@@ -1,0 +1,5 @@
+type: material
+name: Molten Ingot
+description: Strongest liquid ingot made from magma and cryo-gel, used in ammo and buildings.
+color: cb2909
+cost: 5

@@ -1,0 +1,10 @@
+type: wall
+name: Large Steel Wall
+description: A large wall made of steel.
+health: 2000
+size: 2
+requirements: [
+	steel/24
+]
+research: steel-wall
+category: defense

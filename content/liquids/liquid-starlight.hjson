@@ -1,0 +1,10 @@
+name:starlight
+description: Cold liquid captured thanks to cryo gel.
+viscosity: 0.2
+flammability: 0
+explosiveness: 0
+temperature: 0.15
+heatCapacity: 0.95
+effect: freezing
+color: d1ccb0
+barColor: d1ccb0

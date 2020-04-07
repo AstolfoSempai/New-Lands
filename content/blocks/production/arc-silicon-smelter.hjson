@@ -1,0 +1,31 @@
+type: GenericSmelter
+category: crafting
+name: Arc silicon smelter
+description: Smelts sand and coal to make a silicon faster
+health: 60
+size: 3
+hasPower: true
+hasLiquids: false
+hasItems: true
+itemCapacity: 10
+craftTime: 30
+updateEffect: producesmoke
+consumes: {
+	power: 1.8
+	items: {
+		items:[
+			coal/3
+			sand/2
+		]
+	}
+}
+requirements: [
+	lead/100
+	steel/100
+	graphite/25
+	silicon/50
+]
+outputItem: silicon/2
+iddleSound: respaning
+iddleSoundVolume: 0.5
+research: multi-press

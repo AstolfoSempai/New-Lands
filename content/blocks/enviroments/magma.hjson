@@ -1,0 +1,12 @@
+type: floor
+name: Magma
+isLiquid: true
+variants: 0
+blendGroup: water
+cacheLayer: tar
+update: true
+speedMultiplier: 0.17
+liquidDrop: liquid-lava
+status: melting
+statusDuration: 150
+drownTime: 50

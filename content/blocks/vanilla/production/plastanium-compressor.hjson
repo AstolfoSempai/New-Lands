@@ -1,0 +1,7 @@
+requirements: [
+	lead/115
+	graphite/60
+	titanum/80
+	silicon/80
+	steel/60
+]

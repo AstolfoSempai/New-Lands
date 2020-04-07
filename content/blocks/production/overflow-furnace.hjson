@@ -1,0 +1,33 @@
+type: GenericSmelter
+category: crafting
+name: Overflow Furnace
+description: Smelts steel an lava to make the stronguest dark steel.
+health: 120
+size: 3
+hasPower: true
+hasLiquids: false
+hasItems: true
+itemCapacity: 10
+liquidCapacity: 107
+updateEffect: purify
+crafTime: 29
+consumes: {
+	power: 3.2
+	liquid: liquid-lava/0.4
+	items: {
+		items:[
+			coal/2
+			steel/1
+		]
+	}
+}
+requirements: [
+	lead/200
+	steel/200
+	graphite/50
+	silicon/100
+]
+outputItem: dark-steel/1
+iddleSound: respaning
+iddleSoundVolume: 0.5
+research: multi-press

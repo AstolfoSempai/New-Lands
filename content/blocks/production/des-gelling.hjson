@@ -1,0 +1,30 @@
+category: crafting
+health: 260
+size: 4
+hasPower: true
+hasLiquids: true
+hasItems: true
+itemCapacity: 10
+liquidCapacity: 400
+craftTime: 90
+updateEffect: freezing
+drawLiquidLight: true
+consumes: {
+	power: 2.5
+	liquid: water/0.2
+	items: {
+		items: [
+			cryo-gel/3
+		]
+	}
+}
+
+requirements: [
+	steel/200
+	silicon/150
+	metaglass/100
+]
+outputLiquid: cryofluid/16
+iddleSound: respaning
+iddleSoundVolume: 0.5
+research: cryofluidmixer

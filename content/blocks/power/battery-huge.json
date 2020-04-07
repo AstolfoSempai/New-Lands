@@ -1,0 +1,17 @@
+{
+	"type": "battery",
+	"name": "huge Battery",
+	"description": "This battery stores much more energy than the others, it also has more resistance.",
+	"size": 4,
+	"health": 12000,
+	"category": "power",
+	"requirements": [
+		{"item": "lead", "amount": 80},
+		{"item": "dark-steel", "amount": 50},
+		{"item": "silicon", "amount": 50},
+		{"item": "surge-alloy", "amount": 50}
+		{"item": "molten-ingot", "amount": 50}
+	],
+	"consumes": { "powerBuffered": 150000 },
+	"research": "battery-large"
+}

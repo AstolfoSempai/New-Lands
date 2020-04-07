@@ -1,0 +1,30 @@
+type: Separator
+name: Speed Ore Extractor
+descrition: Is an armored upgrade of ore extractor, less speed but much health an ores.
+health: 320
+size: 3
+hasPower: true
+hasItems: true
+hasLiquids: true
+itemCapacity: 10
+craftTime: 90
+updateEffect: producesmoke
+consumes: {
+	power: 2.5
+	liquid: water/0.09333
+
+}
+results: [
+		iron/2
+		thorium/3
+		titanium/2
+]
+requirements: [
+	molten-ingot/120
+	dark-steel/120
+	graphite/200
+]
+category: production
+research: ore-extractor
+idleSound: respawning
+idleSoundVolume: 0.5

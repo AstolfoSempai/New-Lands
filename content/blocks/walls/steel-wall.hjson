@@ -1,0 +1,11 @@
+type: wall
+name: Steel Wall
+description: A wall made of steel.
+size: 1
+health: 500
+requirements: [
+	steel/6
+
+]
+research: titanium-wall
+category: defense

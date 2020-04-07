@@ -1,0 +1,10 @@
+health: 8400
+update: true
+size: 3
+requirements: [
+	dark-steel/24
+	molten-ingot/12
+	metaglass/12
+]
+research: molten-large-wall
+category: defense

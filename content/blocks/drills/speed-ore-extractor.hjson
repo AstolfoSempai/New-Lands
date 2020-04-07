@@ -1,0 +1,31 @@
+type: Separator
+name: Speed Ore Extractor
+descrition: Is an speed upgrado of ore extractor.
+health: 60
+size: 3
+hasPower: true
+hasItems: true
+hasLiquids: true
+itemCapacity: 10
+craftTime: 25
+updateEffect: producesmoke
+consumes: {
+	power: 1.0
+	liquid: water/0.09333
+
+}
+results: [
+		iron/1
+		thorium/1
+		titanium/1
+]
+requirements: [
+	copper/60
+	lead/60
+	steel/120
+	graphite/100
+]
+category: production
+research: ore-extractor
+idleSound: respawning
+idleSoundVolume: 0.5

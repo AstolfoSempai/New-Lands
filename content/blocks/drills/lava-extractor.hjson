@@ -1,0 +1,26 @@
+health: 400
+size: 3
+hasPower: true
+hasLiquids: true
+hasItems: true
+itemCapacity: 10
+liquidCapacity: 560
+craftTime: 120
+updateEffect: producesmoke
+drawLiquidLight: true
+consumes: {
+	power: 2.5
+}
+
+requirements: [
+	steel/100
+	silicon/150
+	metaglass/100
+	lead/50
+	copper/50
+]
+category: production
+outputLiquid: liquid-lava/6
+iddleSound: respaning
+iddleSoundVolume: 0.5
+research: mechanical-pump

@@ -1,0 +1,5 @@
+type: material
+name: Steel
+description: Alloy from iron and coal, use for buildings and mechs.
+color: 9ea1a4
+cost: 2.5

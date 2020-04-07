@@ -1,0 +1,38 @@
+requirements: [
+	dark-steel/150
+	steel/100
+	plastanium/80
+]
+ammo: {
+	metaglass: flakGlass
+	blast-compound: flakExplosive
+	plastanium: flakPlastic
+	surge-alloy: flakSurge
+	molten-ingot: {
+		type: FlakBulletType
+		frontColor: fd8b26
+		backColor: cb2909
+		speed: 4
+		lifeTime: 70
+		damage: 10
+		splashDamage: 60
+		splashDamageRadius: 30
+		hitEffect: flakExplosion
+		bulletWidth: 8.0
+		BulletHeight: 10.0
+		reloadMultiplier: 0.8
+		status: melting
+	}
+	dark-steel: {
+		type: FlakBulletType
+		speed: 3
+		lifeTime: 70
+		damage: 20
+		splashDamage: 95
+		splashDamageRadius: 25
+		hitEffect: flakExplosion
+		bulletWidth: 8.0
+		BulletHeight: 10.0
+		reloadMultiplier: 0.8
+	}
+}

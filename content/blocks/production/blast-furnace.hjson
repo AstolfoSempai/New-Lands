@@ -1,0 +1,29 @@
+type: GenericSmelter
+category: crafting
+name: Blast Furnace
+description: Smelts iron and coal in to a strong steel.
+health: 60
+size: 2
+hasLiquids: false
+hasItems: true
+itemCapacity: 10
+craftTime: 30
+updateEffect: producesmoke
+consumes: {
+	items: {
+		items:[
+			coal/2
+			iron/1
+		]
+	}
+}
+requirements: [
+	copper/75
+	lead/5
+	iron/10
+	graphite/15
+]
+outputItem: steel/1
+iddleSoudn: machine
+iddleSoundVolume: 0.5
+research: graphite-press

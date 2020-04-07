@@ -1,0 +1,17 @@
+ammo: {
+	scrap: flakScrap
+	lead: flakLead
+	metaglass: flakGlass
+	steel: {
+		type: FlakBulletType
+		speed: 4
+		lifeTime: 60
+		damage: 3
+		splashDamage: 35
+		splashDamageRadius: 20
+		hitEffect: flakExplosion
+		bulletWidth: 6.0
+		BulletHeight: 8.0
+		reloadMultiplier: 0.5
+	}
+}

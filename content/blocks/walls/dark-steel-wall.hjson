@@ -1,0 +1,11 @@
+type: wall
+name: Steel Wall
+description: A wall made of steel
+size: 1
+health: 950
+requirements: [
+	dark-steel/6
+
+]
+research: thorium-wall
+category: defense

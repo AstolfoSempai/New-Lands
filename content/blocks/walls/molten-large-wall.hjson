@@ -1,0 +1,10 @@
+health: 4250
+update: true
+size: 2
+requirements: [
+	dark-steel/12
+	molten-ingot/6
+	metaglass/6
+]
+research: surge-wall-large
+category: defense

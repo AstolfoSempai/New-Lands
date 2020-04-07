@@ -1,0 +1,33 @@
+type: GenericSmelter
+category: crafting
+name: Melting
+description: Fuse lava and cryo-gel to made an molten ingot. 
+health: 360
+size: 3
+hasPower: true
+hasLiquids: true
+hasItems: true
+itemCapacity: 10
+liquidCapacity: 300
+craftTime: 60
+updateEffect: lava
+consumes: {
+	power: 3
+	liquid: liquid-lava/0.08333333
+	items: {
+		items: [
+			cryo-gel/3
+		]
+	}
+}
+requirements: [
+	steel/125
+	dark-steel/150
+	silicon/125
+	plastanium/100
+	thorium/25
+]
+outputItem: molten-ingot/1
+iddleSound: respaning
+iddleSoundVolume: 0.5
+research: alloy-smelter

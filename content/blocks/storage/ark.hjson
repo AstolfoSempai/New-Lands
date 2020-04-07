@@ -1,0 +1,15 @@
+type: Vault
+name: Ark
+description: Storage a huge amount of items of each type.An unloader can be used to retrieve items from the ark.
+itemCapacity: 5000
+hasItems: true
+health: 520
+size: 4
+requirements: [
+  dark-steel/400
+  titanium/350
+  molten-ingot/250
+  thorium/150 
+]
+category: effect
+research: vault

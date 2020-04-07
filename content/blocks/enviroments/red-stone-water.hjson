@@ -1,0 +1,9 @@
+type: floor
+name: Red stone water
+variants: 0
+speedMultiplier: 0.8
+isLiquid: true
+cacheLayer: water
+liquidDrop: water
+statusEffect: wet
+statusDuration: 50

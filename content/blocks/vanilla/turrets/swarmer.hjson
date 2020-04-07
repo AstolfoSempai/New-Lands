@@ -1,0 +1,29 @@
+requirements: [
+	graphite/35
+	silicon/30
+	dark-steel/45
+	plastanium/45
+]
+ammo: {
+	blast-compound: missileExplosive
+	pyratite: missileIncendiary
+	surge-alloy: missileSurge
+	cryo-gel: {
+		type: MissileBulletType
+		trailColor: 87ceeb
+		frontColor: c0ecff
+		backColor: 87ceeb
+		bulletWidht: 8.0
+		bulletHeight: 8.0
+		splashDamageRadius: 20
+		splashDamage: 20
+		drag: -0.01
+		speed: 3
+		damage: 15
+		lifetime: 160
+		hitEffecct: blastExplosion
+		status: freezing
+		hommingRange: 185
+		homingPower: 3
+	}
+}

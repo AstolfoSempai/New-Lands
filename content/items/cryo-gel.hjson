@@ -1,0 +1,6 @@
+type: material
+name: Cryogel
+description: Is a cryo-fluid but in a gel, use like an ammo. 
+color: c0ecff
+cost: 3
+hardness: 3

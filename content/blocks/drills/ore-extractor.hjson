@@ -1,0 +1,27 @@
+type: Separator
+name: Ore Extractor
+descrition: A drill that uses water to break the stone and find minerals that are not on the map.
+health: 60
+size: 2
+hasPower: false
+hasItems: true
+hasLiquids: true
+itemCapacity: 10
+craftTime: 30
+updateEffect: producesmoke
+consumes: {
+	liquid: water/0.09333
+
+}
+results: [
+		iron/1
+]
+requirements: [
+	copper/25
+	lead/25
+	graphite/10
+]
+category: production
+research: pneumatic-drill
+idleSound: respawning
+idleSoundVolume: 0.5
