@@ -38,5 +38,4 @@ Add new content to your game, change the way you play in these new lands that ar
 	· the crafts of some vanilla blocks were changed, in next updates the missing blocks will be changed, also new ammunition was 
 	  added to vanilla turrets
 
-This mod was developed by the Spanish community of the game.
-All previous changes are added to the latest Changelog
+This mod was developed by the Spanish community of the game. All previous changes are added to the latest Changelog
