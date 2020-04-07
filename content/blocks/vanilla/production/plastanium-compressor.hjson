@@ -3,5 +3,5 @@ requirements: [
 	graphite/60
 	titanum/80
 	silicon/80
-	steel/60
+	steel/30
 ]
