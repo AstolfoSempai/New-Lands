@@ -4,7 +4,7 @@ requirements: [
 	silicon/80
 	steel/30
 ]
-cosumes: {
+consumes: {
 	power: 4
 	items: {
 		items: [
