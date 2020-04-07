@@ -1,0 +1,32 @@
+Blocks:
+
+1.) PermaFrost/FrozenEdge
+
+Sprites:
+
+1.) Spyro_Xd
+2.) Lobito_42
+3.) Kik AI
+4.) PermaFrost/FrozenEdge
+
+Maps (not implemented):
+
+1.) Spyro_Xd
+2.) Lobito_42
+3.) Kik AI
+4.) PermaFrost/FrozenEdge
+
+Scripts:
+
+1.) PermaFrost/FrozenEdge
+
+Translators:
+
+1.)PermaFrost/FrozenEdge (Spanish, English)
+
+Developers:
+
+1.) Spyro_Xd (Sprite Designer)
+2.) Lobito_42
+3.) Kik AI (MapMaker)
+4.) PermaFrost/Frozen Edge (Leader)
