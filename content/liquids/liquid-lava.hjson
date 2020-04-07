@@ -4,6 +4,5 @@ viscosity: 0.8
 flammability: 1.5
 explosiveness: 1.5
 temperature: 1
-effect: melting
 color: ff4a12
 barColor: ff4a12
