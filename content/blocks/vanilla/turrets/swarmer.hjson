@@ -18,13 +18,13 @@ ammo: {
 		splashDamageRadius: 20
 		splashDamage: 20
 		ammoMultiplier: 2
-		drag: -0.01
+		drag: -0.003
 		speed: 3
 		damage: 15
 		lifetime: 160
 		hitEffecct: blastExplosion
 		status: freezing
-		hommingRange: 140
-		homingPower: 2
+		hommingRange: 60
+		homingPower: 7
 	}
 }
