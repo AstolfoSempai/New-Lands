@@ -7,3 +7,4 @@ heatCapacity: 0.5
 temperature: 1
 color: ff4a12
 barColor: ff4a12
+effect: melting
