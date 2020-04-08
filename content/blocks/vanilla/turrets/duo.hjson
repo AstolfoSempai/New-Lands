@@ -16,7 +16,7 @@ ammo: {
 	}
 	iron: {
 		type: BasicBulletType
-		damage: 20
+		damage: 6
 		ammoMultiplier: 2
 		speed: 2.5
 		bulletWidth: 7.0
