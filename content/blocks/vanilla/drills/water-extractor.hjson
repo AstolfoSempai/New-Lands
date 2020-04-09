@@ -2,5 +2,5 @@ requirements: [
 	copper/25
 	lead/20
 	graphite/25
-	iron/30
+	iron/10
 ]
