@@ -5,7 +5,7 @@ hasLiquids: true
 hasItems: true
 itemCapacity: 10
 liquidCapacity: 560
-craftTime: 120
+craftTime: 60
 updateEffect: producesmoke
 drawLiquidLight: true
 consumes: {
@@ -20,7 +20,7 @@ requirements: [
 	copper/50
 ]
 category: production
-outputLiquid: liquid-lava/6
+outputLiquid: liquid-lava/16
 iddleSound: respaning
 iddleSoundVolume: 0.5
 research: mechanical-pump
