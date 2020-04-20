@@ -1,0 +1,9 @@
+type: OreBlock
+name: Mena de azufre
+variants: 3
+speedMultiplier: 1
+damageTaken: 0
+isLiquid: false
+drownTime: 0
+itemDrop: azufre
+playerUnmineable: true
