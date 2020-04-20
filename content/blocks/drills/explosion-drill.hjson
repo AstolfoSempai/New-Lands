@@ -1,0 +1,22 @@
+name: Taladro de Explosiones Rango 2
+description: Mina a base de explosiones
+type: Drill
+size: 5
+tier: 5
+drillTime: 780
+liquidBoostIntensity: 2.56
+consumes: {
+  power: 3.6
+  liquid: {
+    liquid: water
+    amount: 0.2
+    booster: true
+  }
+}
+requirements: [
+  thorium/100
+  silicon/70
+  titanium/80
+]
+category: production
+research: blast-drill
