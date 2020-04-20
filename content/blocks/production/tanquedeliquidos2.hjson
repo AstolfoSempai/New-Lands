@@ -1,0 +1,15 @@
+name: Tanque de Liquidos de 2° Rango
+description: Almacena Liquidos
+type: LiquidTank
+liquidCapacity: 2500
+hasItems: false
+hasLiquids: true
+health: 2000
+size: 4
+requirements: [
+  metaglass/200
+  titanium/150
+  thorium/80
+]
+category: liquid
+research: vault
