@@ -1,0 +1,16 @@
+type: GenericCrafter
+name: Condensador de Azufre
+description: Condensa Azufre 
+health: 450
+size: 2
+category: production
+requirements: [
+lead/250
+titanium/100
+metaglass/60
+]
+consumes:{
+}
+craftTime: 120
+outputItem: azufre/1
+research: cultivator
